@@ -4,7 +4,7 @@ The aim of this project is to control home appliances like fan, light, door and 
 
 The following are commands used to control the appliances through SMS.
 
-R.NO.	Command.	Function of the command.	                   Result of the command.
+R.NO.|Command.||       Function of the command.	         ||   Result of the command.
 1)	 | ‘1’    ||          Used to turn on the fan.	     ||     Fan turned on!
 2)	 | ‘2’    ||        	Used to turn off the fan.	     ||     Fan turned off!
 3)	 | ‘3’    ||        	Used to turn on the light.     ||     Light turned on!
