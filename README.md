@@ -1,5 +1,5 @@
 # Home_automation_using_GSM_Technology
-I made this for semester project in university as electrical and computer engineering student from industrial control engineering stream.
+I made this for semester project with my group peers in university as electrical and computer engineering student from industrial control engineering stream.
 The aim of this project is to control home appliances like fan, light, door and windows wirelessly using GSM Module without having to make physical contact. Compared to the old system the system has a great significance, if one can control every appliance of its home wirelessly using a text message from his mobile, it saves time, energy, and also the risk of different electrical dangers like electric shock since there is no physical contact. Cost saving of different switching materials that are being used in the old system is also saved and we avoid the risk of durability of the materials. 
 
 The following are commands used to control the appliances through SMS.
